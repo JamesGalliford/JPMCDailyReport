@@ -1,0 +1,102 @@
+[
+  {
+    "entity": "foo", "operation": "B", "currency": "GBP", "units": 200, "pricePerUnit": 100.25, "agreedFx": 0.5,
+    "instructionDate": "01 Oct 2018", "settlementDate": "02 Oct 2018"
+  },
+  {
+    "entity": "bar", "operation": "S", "currency": "AED", "units": 450, "pricePerUnit": 150.5, "agreedFx": 0.22,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "foo", "operation": "S", "currency": "GBP", "units": 100, "pricePerUnit": 125.5, "agreedFx": 0.5,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "foo", "operation": "S", "currency": "GBP", "units": 200, "pricePerUnit": 115.5, "agreedFx": 0.5,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "foo", "operation": "S", "currency": "GBP", "units": 300, "pricePerUnit": 105.5, "agreedFx": 0.5,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "foo", "operation": "B", "currency": "CHF", "units": 125, "pricePerUnit": 55.25, "agreedFx": 1.2,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "foo", "operation": "B", "currency": "CAD", "units": 25, "pricePerUnit": 600.32, "agreedFx": 0.8,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "bar", "operation": "B", "currency": "AED", "units": 10, "pricePerUnit": 600.50, "agreedFx": 0.5,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "bar", "operation": "B", "currency": "EUR", "units": 100, "pricePerUnit": 20.37, "agreedFx": 0.82,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "bar", "operation": "B", "currency": "AED", "units": 10, "pricePerUnit": 600.50, "agreedFx": 0.5,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "bar", "operation": "S", "currency": "SAR", "units": 26, "pricePerUnit": 32.15, "agreedFx": 0.6,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "bar", "operation": "S", "currency": "EUR", "units": 26, "pricePerUnit": 64.31, "agreedFx": 1.6,
+    "instructionDate": "05 Oct 2018", "settlementDate": "07 Oct 2018"
+  },
+  {
+    "entity": "jam", "operation": "B", "currency": "KRW", "units": 200, "pricePerUnit": 1337, "agreedFx": 0.00088,
+    "instructionDate": "22 Oct 2018", "settlementDate": "24 Oct 2018"
+  },
+  {
+    "entity": "jam", "operation": "B", "currency": "KRW", "units": 250, "pricePerUnit": 1336.88, "agreedFx": 0.00089,
+    "instructionDate": "24 Oct 2018", "settlementDate": "24 Oct 2018"
+  },
+  {
+    "entity": "jam", "operation": "S", "currency": "KRW", "units": 125, "pricePerUnit": 1337.2, "agreedFx": 0.0009,
+    "instructionDate": "24 Oct 2018", "settlementDate": "25 Oct 2018"
+  },
+  {
+    "entity": "jam", "operation": "B", "currency": "KRW", "units": 75, "pricePerUnit": 1337, "agreedFx": 0.00088,
+    "instructionDate": "26 Oct 2018", "settlementDate": "27 Oct 2018"
+  },
+  {
+    "entity": "jam", "operation": "S", "currency": "KRW", "units": 175, "pricePerUnit": 1337.4, "agreedFx": 0.00088,
+    "instructionDate": "27 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "jam", "operation": "S", "currency": "KRW", "units": 50, "pricePerUnit": 1335.45, "agreedFx": 0.00088,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "ayc", "operation": "B", "currency": "AED", "units": 10, "pricePerUnit": 20, "agreedFx": 2,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "ayc", "operation": "S", "currency": "SAR", "units": 20, "pricePerUnit": 20, "agreedFx": 2,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "ayc", "operation": "S", "currency": "AED", "units": 30, "pricePerUnit": 20, "agreedFx": 2,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "ayc", "operation": "S", "currency": "AED", "units": 40, "pricePerUnit": 20, "agreedFx": 2,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "ayc", "operation": "B", "currency": "GBP", "units": 50, "pricePerUnit": 20, "agreedFx": 2,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "ayc", "operation": "B", "currency": "AED", "units": 60, "pricePerUnit": 20, "agreedFx": 2,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  },
+  {
+    "entity": "ayc", "operation": "B", "currency": "USD", "units": 10, "pricePerUnit": 20, "agreedFx": 1,
+    "instructionDate": "28 Oct 2018", "settlementDate": "28 Oct 2018"
+  }
+]
